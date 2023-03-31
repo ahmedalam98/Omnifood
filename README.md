@@ -8,15 +8,12 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="###">
+  <a href="https://omnifood-ahmedalam98.netlify.app/">
     <img src="./img/favicon.png" alt="Logo" width="80" height="80">
     <h1 align="center">Omnifood</h1>
   </a>
   <p align="center">
-    Healthy Meal-Prep Website
-    <br />
-    <br />
-    <a href="###">View Demo</a>
+    <a href="https://omnifood-ahmedalam98.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/ahmedalam98/Omnifood/issues">Report Bug</a>
   </p>
@@ -72,7 +69,7 @@ All this will be packed up in a monthly subscription, where users can choose bet
 
 ## Getting Started
 
-This project doesn't require any prequesites or dependenscies and you can view it online using this [demo](###)
+This project doesn't require any prequesites or dependenscies and you can view it online using this [demo](https://omnifood-ahmedalam98.netlify.app/)
 
 To get a local copy up and running follow these simple steps :
 
